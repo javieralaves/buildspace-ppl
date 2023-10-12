@@ -1,5 +1,5 @@
 import React from 'react';
-import { builders } from './builders';
+import { builders } from '../builders';
 import Card from './Card';
 
 const CardList = () => {
